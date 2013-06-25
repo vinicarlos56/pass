@@ -3,6 +3,7 @@
         "slim/slim": "2.*",
         "twitter/bootstrap": "dev-master",
         "doctrine/orm": "2.*",
+	"doctrine/migrations": "dev-master",
         "symfony/yaml": "2.*"	
     },
     "autoload":{    	

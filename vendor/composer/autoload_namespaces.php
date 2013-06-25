@@ -11,6 +11,7 @@ return array(
     'Slim' => array($vendorDir . '/slim/slim'),
     'Models' => array($baseDir . '/src'),
     'Doctrine\\ORM' => array($vendorDir . '/doctrine/orm/lib'),
+    'Doctrine\\DBAL\\Migrations' => array($vendorDir . '/doctrine/migrations/lib'),
     'Doctrine\\DBAL' => array($vendorDir . '/doctrine/dbal/lib'),
     'Doctrine\\Common' => array($vendorDir . '/doctrine/common/lib'),
 );

@@ -1,0 +1,11 @@
+Customer:
+    type: entity
+    table: customers
+    id:
+        id:
+            type: integer
+                generator:
+                    strategy: AUTO
+        fields:
+            name:
+                type: string
